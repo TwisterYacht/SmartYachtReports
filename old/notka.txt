@@ -1,0 +1,51 @@
+zmiany w responderze:
+
+DOdaj drugie złącze CAN
+zmień kolejność pinów(zrobione) żeby zgadzały się z CAN_US
+poprawiono- wersja 1.4, brak raportu
+Edit: raport przygotowany
+
+Kolejna wersja 1.5-brak raportu
+Stabilizator 3v3 wymieniony na step-down
+dodane piny ekranu na złączach, poszerzone ścieżki zasilania.
+Edit: rapodr przygotowany
+
+
+Zmiany w inicjatorze:
+dodaj pin przerwaniowy UART
+dodaj kwarc zegarkowy
+kodensator na wejściu ADc do pomiaru stanu baterii
+kondensator modyfikujący prąd ładowania
+poprawiono- wersja 1.4 brak raportu
+Edit:
+raport przygotowany
+
+Programowanie adresu poprzez komendy UART
+
+zmiany w can ENC  2.1:
+
+1. ZMienione złącza na kompatybilne z nowym standardem
+2. Dodane złącze programowania
+3. Dodana zwora czujnika indukcyjnego
+4. kondensatory wymienione na MMLC
+5. Usunięty efuse- zwykły bezpiecznik
+6. kondensatory zmienione na MMLC
+
+
+zmiany w ładowarce:
+dodaj raport z ładowarki
+
+CAn US 2.1:
+Dodano rezystor na pin 8 transceivera
+Efuse wymieniony na topik
+
+CAN_CZB refaktoryzacja kodu<
+Raport z wymiany TCAN1042 na SN65HVD230
+Raport z usunięcia układu CAN master
+
+CAN_MC
+Napisz raport w ogóle
+
+
+CAN_US_64
+brak raportu
